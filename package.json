@@ -1,0 +1,14 @@
+{
+  "name": "frisby-automation",
+  "version": "0.0.0",
+  "description": "example of frisby api automation",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf node_modules && npm install"
+  },
+  "author": "Robb Sherwin",
+  "devDependencies": {
+    "frisby": "^0.8.5",
+    "jasmine-node": "^1.14.5"
+  }
+}
