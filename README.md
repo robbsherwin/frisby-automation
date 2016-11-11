@@ -5,7 +5,9 @@ This requires npm and Node.js to be installed.
 
 
 To run: 
+
 npm clean
+
 jasmine-node spec/api (will run all spec.js files in that directory. You can just specify a specific file to run a specific file.)
 
 
